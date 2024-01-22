@@ -12,15 +12,15 @@ let name = "Ikshit"
 let age = 21
 let isLoggedIn = false
 
-// number => 2^53
-// bigint
-// string => ""
-// boolean => true/false
-// null => standalone value
-// undefined
-// symbol => Unique
+// 1. number => 2^53
+// 2. bigint
+// 3. string => ""
+// 4. boolean => true/false
+// 5. null => standalone value
+// 6. undefined
+// 7. symbol => Unique
 
-// Object
+// 8. Object
 
 
 console.log(typeof  undefined) // undefined
